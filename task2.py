@@ -1,4 +1,4 @@
-from tkinter import N
+
 
 
 def get_factorial_list(n):
